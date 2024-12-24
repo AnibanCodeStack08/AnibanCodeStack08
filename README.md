@@ -10,16 +10,46 @@
 
 ###
 
-- 🌱 I’m currently learning **Reactjs**
+🌱 **Currently Learning**: Diving deeper into **ReactJS** and modern web development practices.  
 
-- 👨‍💻 All of my projects are available at [https://anirbansarkar.netlify.app/](https://anirbansarkar.netlify.app/)
+👨‍💻 **Portfolio**:  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=netlify&logoColor=white)](https://anirbansarkar.netlify.app/)  
 
-- 📝 I regularly write articles on [https://fancycoffeeshop.netlify.app](https://fancycoffeeshop.netlify.app)
+🌐 **Webpage**:  
+[![Webpage](https://img.shields.io/badge/Webpage-Explore-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://fancycoffeeshop.netlify.app)    
 
-- 💬 Ask me about **JavaScript, ReactJs, SQL, PHP**
+ ### 💬 **Ask Me About**:  
+- Building responsive and user-friendly websites 🌐  
+- Developing interactive web applications with **ReactJS** ⚛️  
+- Managing backend systems using **NodeJS** and **PHP** 🖥️  
+- Database management with **MySQL** 🗄️  
+- Using **Git** and **GitHub** for version control 🌟  
 
-- 📫 How to reach me **anirbansarkar549@gmail.com**
+---
 
+### 🔧 **Skills**:  
+- 💡 Creating responsive and interactive web designs  
+- ⚛️ Building dynamic web applications using **ReactJS**  
+- 🔗 Backend development with **NodeJS** and **PHP**  
+- 📊 Managing and querying databases with **MySQL**  
+- 🛠️ Version control using **Git** and collaborating on **GitHub**  
+- 🎯 Proficient in **Java** for versatile programming needs    
+
+---
+
+### 📫 **Contact Me**:  
+[![Email Me](https://img.shields.io/badge/Email-anirbansarkar549%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirbansarkar549@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirban-sarkar-6a8151267/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anirban.sarkar.3910829/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anirban6313/)  
+---
+
+### 🎯 Fun Fact:  
+🚀 I love learning new technologies and strive to create clean, user-friendly web applications!    
+
+<div>
+<br>
+</div>
 
 ###
 
@@ -57,11 +87,8 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+<div>
+<br>
 </div>
 
 ###
