@@ -2,12 +2,24 @@
 
 <h2 align="left">Hi 👋 I’m Anirban Sarkar | Innovating and Engineering | Full Stack Web Development</h2>
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnibanCodeStack08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnibanCodeStack08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnibanCodeStack08&theme=flat" alt="trophy">
 </div>
+
+
+###
+
+- 🌱 I’m currently learning **Reactjs**
+
+- 👨‍💻 All of my projects are available at [https://anirbansarkar.netlify.app/](https://anirbansarkar.netlify.app/)
+
+- 📝 I regularly write articles on [https://fancycoffeeshop.netlify.app](https://fancycoffeeshop.netlify.app)
+
+- 💬 Ask me about **JavaScript, ReactJs, SQL, PHP**
+
+- 📫 How to reach me **anirbansarkar549@gmail.com**
+
 
 ###
 
@@ -53,19 +65,18 @@
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/AnibanCodeStack08/AnibanCodeStack08/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnibanCodeStack08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnibanCodeStack08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 
 ###
-- 🌱 I’m currently learning **Reactjs**
-
-- 👨‍💻 All of my projects are available at [https://anirbansarkar.netlify.app/](https://anirbansarkar.netlify.app/)
-
-- 📝 I regularly write articles on [https://fancycoffeeshop.netlify.app](https://fancycoffeeshop.netlify.app)
-
-- 💬 Ask me about **JavaScript, ReactJs, SQL, PHP**
-
-- 📫 How to reach me **anirbansarkar549@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
